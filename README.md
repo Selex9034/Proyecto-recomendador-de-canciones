@@ -14,3 +14,9 @@ La app incluye:
 - Ana Fernanda Mompin Beristain  
 - Diego Téllez Nieto  
 - Selene Juárez Tuxpan
+
+
+## Resultados
+![Pantalla de bienvenida](Resultado de la interfaz/Bienvenida.jpeg)
+![Pantalla principal](Resultado de la interfaz/pantalla_principal.jpeg)
+![Pantalla de historial](Resultado de la interfaz/Historial_de_canciones.jpeg)
