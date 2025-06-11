@@ -17,6 +17,6 @@ La app incluye:
 
 
 ## Resultados
-![Pantalla de bienvenida](Resultado de la interfaz/Bienvenida.jpeg)
-![Pantalla principal](Resultado de la interfaz/pantalla_principal.jpeg)
-![Pantalla de historial](Resultado de la interfaz/Historial_de_canciones.jpeg)
+![Pantalla de bienvenida](Resultado%20de%20la%20Interfaz/Bienvenida.jpeg)
+![Pantalla principal](Resultado%20de%20la%20Interfaz//pantalla_principal.jpeg)
+![Pantalla de historial](Resultado%20de%20la%20Interfaz//Historial_de_canciones.jpeg)
